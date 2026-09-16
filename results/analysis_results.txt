@@ -1,0 +1,15 @@
+HEALTHCARE DATA ANALYSIS RESULTS
+
+Number of patient records: 10
+Average waiting time: 37.0 minutes
+Average satisfaction score: 3.5/5
+Longest waiting time: 75 minutes
+Shortest waiting time: 15 minutes
+
+Department Summary
+
+Emergency: 2 visits, average wait 67.5 minutes, average satisfaction 2.0/5
+Maternity: 2 visits, average wait 25.0 minutes, average satisfaction 4.5/5
+Medical: 2 visits, average wait 40.0 minutes, average satisfaction 3.0/5
+Outpatient: 3 visits, average wait 21.7 minutes, average satisfaction 4.3/5
+Surgical: 1 visit, average wait 40.0 minutes, average satisfaction 3.0/5
