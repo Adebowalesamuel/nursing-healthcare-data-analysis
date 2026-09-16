@@ -1,0 +1,11 @@
+age,gender,department,visit_type,wait_time_minutes,satisfaction_score
+22,Female,Outpatient,Consultation,25,4
+35,Male,Emergency,Emergency,60,2
+29,Female,Maternity,Follow-up,20,5
+41,Male,Medical,Consultation,35,3
+19,Female,Outpatient,Consultation,15,5
+52,Male,Medical,Follow-up,45,3
+27,Female,Maternity,Antenatal,30,4
+64,Male,Emergency,Emergency,75,2
+33,Female,Surgical,Consultation,40,3
+46,Male,Outpatient,Follow-up,25,4
